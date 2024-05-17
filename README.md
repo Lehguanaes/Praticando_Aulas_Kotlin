@@ -2,7 +2,7 @@
 
 Prática: Aulas e Coleções.
 
-Curso feito disponibilizado no https://developer.android.com/ com o intuito de aprender conceitos de programação em Kotlin para desenvolver apps Android em Kotlin.
+Curso feito disponibilizado no https://developer.android.com/ com o intuito de aprender conceitos de programação em Kotlin para desenvolver apps Android.
 
 - Conferir selos adquiridos em https://g.dev/Lehguanaes !
   
